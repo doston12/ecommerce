@@ -11,9 +11,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class ProductDaoImpl implements ProductDao{
     private final Connection connection;
     private ProductTypeDao productTypeDao;
