@@ -5,9 +5,6 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class ProductType {
     private Integer id;
     private String productType;
