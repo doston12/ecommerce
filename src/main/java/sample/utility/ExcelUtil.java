@@ -14,9 +14,6 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- * Shoh Jahon tomonidan 7/31/2019 da qo'shilgan.
- */
 public class ExcelUtil<T> {
     private TableView<T> tableView;
     private String spreedSheetName;
