@@ -31,9 +31,6 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 import java.util.ResourceBundle;
 
-/**
- * Shoh Jahon tomonidan 7/29/2019 da qo'shilgan.
- */
 public class UpdateSalesRecordController implements Initializable,DispatcherController<SalesRecordsDto> {
     private Stage stage;
     private double dragAnchorY;
