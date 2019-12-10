@@ -23,10 +23,6 @@ import java.util.concurrent.Executors;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
-/**
- * Shoh Jahon tomonidan 7/31/2019 da qo'shilgan.
- */
 public class FilterUtil {
     private JFXTextField filterField;
     private TableView tableView;
