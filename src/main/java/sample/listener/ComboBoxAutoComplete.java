@@ -10,9 +10,6 @@ import javafx.scene.input.KeyEvent;
 import javafx.stage.Window;
 import java.util.stream.Stream;
 
-/**
- * Shoh Jahon tomonidan 7/29/2019 da qo'shilgan.
- */
 public class ComboBoxAutoComplete<T> {
     private ComboBox<T> cmb;
     String filter = "";
