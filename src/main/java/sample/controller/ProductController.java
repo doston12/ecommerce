@@ -37,9 +37,6 @@ import java.util.ResourceBundle;
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
-/**
- * Shoh Jahon tomonidan 7/22/2019 da qo'shilgan.
- */
 public class ProductController implements Initializable,DispatcherController<ProductDto> {
     private Stage stage;
     @FXML
