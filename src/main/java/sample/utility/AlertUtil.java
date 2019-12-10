@@ -6,9 +6,6 @@ import javafx.scene.control.ButtonType;
 
 import java.util.Optional;
 
-/**
- * Shoh Jahon tomonidan 7/18/2019 da qo'shilgan.
- */
 public class AlertUtil {
     private static Alert alert;
 
