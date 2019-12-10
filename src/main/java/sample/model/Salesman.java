@@ -1,8 +1,5 @@
 package sample.model;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class Salesman {
     private Integer id;
     private String fullName;
