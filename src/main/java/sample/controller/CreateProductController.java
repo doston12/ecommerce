@@ -26,9 +26,6 @@ import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * Shoh Jahon tomonidan 7/22/2019 da qo'shilgan.
- */
 public class CreateProductController implements Initializable,DispatcherController<ProductDto>{
     private Stage stage;
     @FXML
