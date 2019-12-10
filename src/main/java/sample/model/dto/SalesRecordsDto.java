@@ -13,9 +13,6 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Date;
 
-/**
- * Shoh Jahon tomonidan 7/26/2019 da qo'shilgan.
- */
 public class SalesRecordsDto {
     private IntegerProperty id = new SimpleIntegerProperty();
     private ObjectProperty<Product> productName = new SimpleObjectProperty<>();
