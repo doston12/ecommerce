@@ -1,8 +1,5 @@
 package sample.constant;
 
-/**
- * Shoh Jahon tomonidan 7/31/2019 da qo'shilgan.
- */
 public interface Query {
     public static final String create_salesman = "CREATE TABLE IF NOT EXISTS  salesman (\n" +
             "  id INTEGER PRIMARY KEY AUTOINCREMENT,\n" +
