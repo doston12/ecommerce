@@ -7,9 +7,6 @@ import javafx.beans.property.StringProperty;
 import sample.model.Product;
 import sample.model.Salesman;
 
-/**
- * Shoh Jahon tomonidan 7/22/2019 da qo'shilgan.
- */
 public class ProductDto {
     private IntegerProperty id = new SimpleIntegerProperty();
     private StringProperty productName = new SimpleStringProperty();
