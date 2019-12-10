@@ -25,9 +25,6 @@ import java.net.URL;
 import java.util.List;
 import java.util.ResourceBundle;
 
-/**
- * Shoh Jahon tomonidan 6/28/2019 da qo'shilgan.
- */
 public class CreateProductTypeController implements Initializable,DispatcherController<ProductType> {
     private Stage stage;
     private double dragAnchorY;
