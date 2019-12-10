@@ -18,9 +18,6 @@ import java.sql.Statement;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class DatabaseUtil {
 
     private static Connection connection;
