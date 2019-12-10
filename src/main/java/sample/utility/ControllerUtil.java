@@ -13,9 +13,6 @@ import sample.inteface.DispatcherController;
 
 import java.io.IOException;
 
-/**
- * Shoh Jahon tomonidan 7/26/2019 da qo'shilgan.
- */
 public class ControllerUtil<T>{
     private DispatcherController controller;
     private int screenW, screenH;
