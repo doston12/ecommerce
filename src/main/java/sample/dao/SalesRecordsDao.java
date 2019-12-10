@@ -6,9 +6,6 @@ import sample.model.Statistics;
 import java.io.File;
 import java.util.List;
 
-/**
- *  Shoh Jahon tomonidan 3/31/2019 da qo'shilgan.
- */
 public interface SalesRecordsDao {
 
     SalesRecords findSalesRecorById(Integer id) throws Exception;
