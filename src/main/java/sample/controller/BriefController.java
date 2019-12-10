@@ -45,9 +45,6 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**
- * Shoh Jahon tomonidan 10/9/2019 da qo'shilgan.
- */
 public class BriefController implements Initializable{
     private Stage stage;
     private Scene scene;
