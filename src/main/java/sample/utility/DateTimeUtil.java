@@ -6,9 +6,6 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.Date;
 
-/**
- * Shoh Jahon tomonidan 7/29/2019 da qo'shilgan.
- */
 public class DateTimeUtil {
 
 
