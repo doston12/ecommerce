@@ -18,9 +18,6 @@ import sample.utility.DatabaseUtil;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * Shoh Jahon tomonidan 7/23/2019 da qo'shilgan.
- */
 public class UpdateProductTypeController implements Initializable,DispatcherController<ProductType> {
     private Stage stage;
     private double dragAnchorY;
