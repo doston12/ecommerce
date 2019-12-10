@@ -7,9 +7,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class SalesmanDaoImpl implements SalesmanDao {
     private final Connection connection;
     private final String INSERT_SQL = "INSERT INTO salesman (full_name,phone_number,address) VALUES (?,?,?)";
