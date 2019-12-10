@@ -4,9 +4,6 @@ import sample.model.ProductType;
 
 import java.util.List;
 
-/**
- *  Shoh Jahon tomonidan 3/31/2019 da qo'shilgan.
- */
 public interface ProductTypeDao {
 
     ProductType findProductTypeByType(String type) throws Exception;
