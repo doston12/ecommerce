@@ -26,9 +26,6 @@ import java.util.ResourceBundle;
 import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 
-/**
- * Shoh Jahon tomonidan 7/26/2019 da qo'shilgan.
- */
 public class SalesmanController implements Initializable,DispatcherController<SalesmanDto>{
     private Stage stage;
     @FXML
