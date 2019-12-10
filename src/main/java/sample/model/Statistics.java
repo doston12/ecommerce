@@ -2,9 +2,6 @@ package sample.model;
 
 import java.util.Date;
 
-/**
- * Shoh Jahon tomonidan 10/11/2019 da qo'shilgan.
- */
 public class Statistics {
     private Date date;
     private Double spentMoney;
