@@ -18,9 +18,6 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.util.*;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class SalesRecordsDaoImpl implements SalesRecordsDao {
     private final Connection connection;
     private ProductDao productDao;
