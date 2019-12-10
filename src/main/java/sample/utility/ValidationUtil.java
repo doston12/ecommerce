@@ -5,9 +5,6 @@ import javafx.event.Event;
 import sample.model.SalesRecords;
 import sample.model.dto.SalesRecordsDto;
 
-/**
- * Shoh Jahon tomonidan 10/4/2019 da qo'shilgan.
- */
 public class ValidationUtil {
 
     public static boolean isEmpty(SalesRecords records){
