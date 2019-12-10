@@ -3,9 +3,6 @@ package sample.model;
 import java.util.Arrays;
 import java.util.Date;
 
-/**
- * Created by Shoh Jahon on 3/31/2019.
- */
 public class SalesRecords {
     private Integer id;
     private Product product;
