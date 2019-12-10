@@ -25,9 +25,6 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-/**
- * Shoh Jahon tomonidan 6/27/2019 da qo'shilgan.
- */
 public class ProductTypeController implements Initializable , DispatcherController<ProductType>{
     @FXML
     private TableView<ProductType> product_type_table;
